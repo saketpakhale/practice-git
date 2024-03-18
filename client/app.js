@@ -5,7 +5,6 @@ function getArray() {
 
 function getModel() {
     console.log("A");
-    console.log("B");
 }
 
 function getName() {
