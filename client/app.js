@@ -7,3 +7,7 @@ function getModel() {
     console.log("A");
     console.log("B");
 }
+
+function getName() {
+    console.log("Name");
+}
