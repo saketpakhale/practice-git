@@ -9,4 +9,5 @@ function getModel() {
 
 function getName() {
     console.log("Name");
+    console.log("Name2");
 }
