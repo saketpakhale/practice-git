@@ -11,3 +11,7 @@ function getName() {
     console.log("Name");
     console.log("Name2");
 }
+
+function addFeatA() {
+    console.log("featA");
+}
